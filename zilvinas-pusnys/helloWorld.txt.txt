@@ -1,1 +1,5 @@
 Hello Wolrd from feature branch!
+and
+Hello Wolrd from merge-conflict branch!
+after successful merge conflict
+
